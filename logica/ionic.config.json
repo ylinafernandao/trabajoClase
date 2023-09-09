@@ -1,0 +1,7 @@
+{
+  "name": "logica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
